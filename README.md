@@ -1,16 +1,17 @@
 📊 **Data Analyst | Insights Enthusiast | Problem Solver**  
 
-👋 Hi, I'm **Jaya Krishna**, a passionate **Data Analyst** who loves transforming data into actionable insights and making data-driven decisions.  
+Welcome! I'm **Jaya Krishna**, a **data enthusiast** who loves uncovering patterns, optimizing business strategies, and crafting compelling data stories. Whether it's crunching numbers, building dashboards, or diving into machine learning, I thrive on making data **speak!** 📊✨
 
 💡 **Tech Stack:**  
 - 📊 Data Analysis: Pandas, NumPy, Excel, SQL  
 - 📈 Visualization: Tableau, Power BI, Matplotlib, Seaborn  
 - 🧠 ML Basics: Scikit-Learn, Regression, Classification  
-- 🚀 Programming: Python, SQL, R  
+- 🚀 Programming: Python, SQL
 
 📌 **What I Do:**  
-✔️ Analyze complex datasets to drive business insights  
-✔️ Create interactive dashboards & reports  
-✔️ Work with data cleaning, ETL, and storytelling  
+✅ Extract, clean & analyze **large datasets** to drive business impact  
+✅ Create **interactive dashboards** & reports for data-driven storytelling  
+✅ Solve **real-world problems** using analytics & machine learning  
+
 
 ⭐ **Follow & Star** my repositories for exciting data projects!  
