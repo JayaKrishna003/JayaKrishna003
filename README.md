@@ -1,16 +1,16 @@
-## Hi there 👋
+📊 **Data Analyst | Insights Enthusiast | Problem Solver**  
 
-<!--
-**JayaKrishna003/JayaKrishna003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi, I'm **Jaya Krishna**, a passionate **Data Analyst** who loves transforming data into actionable insights and making data-driven decisions.  
 
-Here are some ideas to get you started:
+💡 **Tech Stack:**  
+- 📊 Data Analysis: Pandas, NumPy, Excel, SQL  
+- 📈 Visualization: Tableau, Power BI, Matplotlib, Seaborn  
+- 🧠 ML Basics: Scikit-Learn, Regression, Classification  
+- 🚀 Programming: Python, SQL, R  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📌 **What I Do:**  
+✔️ Analyze complex datasets to drive business insights  
+✔️ Create interactive dashboards & reports  
+✔️ Work with data cleaning, ETL, and storytelling  
+
+⭐ **Follow & Star** my repositories for exciting data projects!  
